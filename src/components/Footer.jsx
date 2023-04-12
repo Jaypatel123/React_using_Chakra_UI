@@ -59,18 +59,18 @@ const Footer = () => {
           </Heading>
           <Button variant={'link'} colorScheme={'white'}>
             <a target={'black'} href="https://youtube.com/6packprogrammer">
-              Youtube
+              Linkedin
             </a>
           </Button>
           <Button variant={'link'} colorScheme={'white'}>
             <a target={'black'} href="https://instagram.com/meabhisingh">
-              Instagram
+              Github
             </a>
           </Button>
 
           <Button variant={'link'} colorScheme={'white'}>
             <a target={'black'} href="https://github.com/meabhisingh">
-              Github
+              Instagram
             </a>
           </Button>
         </VStack>
